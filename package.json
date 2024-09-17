@@ -37,5 +37,7 @@
   "browserslist": [
     "last 2 version"
   ],
-  "main": "tailwind.config.js"
+  "main": "tailwind.config.html"
+  
+
 }
