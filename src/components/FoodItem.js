@@ -1,4 +1,4 @@
-import { IMG_CDN_URL } from "../constants";
+import { IMG_CDN_URL } from "../Constants";
 
 const FoodItem = ({ imageId, name, description, price, defaultPrice }) => {
   return (
